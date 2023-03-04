@@ -1,3 +1,3 @@
 # vizitka-2023
 
-Moje osobní vizitka v HTML.
+Moje osobní vizitka v HTML
